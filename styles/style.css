@@ -326,6 +326,7 @@ ol {
     background: rgb(230 217 217 / 10%);
 }
 
+
 .custom-scrollbar::-webkit-scrollbar-thumb {
     background-color: #D9D9D9;
 }
